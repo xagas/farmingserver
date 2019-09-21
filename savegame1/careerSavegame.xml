@@ -15,7 +15,7 @@
         <resetVehicles>false</resetVehicles>
         <isPlantWitheringEnabled>true</isPlantWitheringEnabled>
         <trafficEnabled>false</trafficEnabled>
-        <stopAndGoBraking>false</stopAndGoBraking>
+        <stopAndGoBraking>true</stopAndGoBraking>
         <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
         <fruitDestruction>true</fruitDestruction>
         <plowingRequiredEnabled>false</plowingRequiredEnabled>
@@ -38,7 +38,7 @@
         <mapTipCollisionRevision>1</mapTipCollisionRevision>
         <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
         <difficulty>2</difficulty>
-        <economicDifficulty>1</economicDifficulty>
+        <economicDifficulty>2</economicDifficulty>
         <plantGrowthRate>4</plantGrowthRate>
         <dirtInterval>3</dirtInterval>
         <timeScale>5.000000</timeScale>
@@ -48,8 +48,8 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>466451</money>
-        <playTime>1639.086548</playTime>
+        <money>528216</money>
+        <playTime>1811.321045</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
