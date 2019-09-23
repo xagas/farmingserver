@@ -1,28 +1,26 @@
 ﻿<farms>
-    <farm farmId="1" name="Minha fazenda" color="1" loan="15000.000000" money="1103.994141" loanAnnualInterestRate="200.000000">
+    <farm farmId="1" name="Minha fazenda" color="1" loan="15000.000000" money="547.237610" loanAnnualInterestRate="200.000000">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Gabriel" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
-            <player uniqueUserId="WJ8QYESv0N37ayhjiG9+qGcchqdhG7gDsLu72uL3yzs=" farmManager="false" lastNickname="Gabriel" buyVehicle="false" sellVehicle="false" buyPlaceable="false" sellPlaceable="false" manageContracts="false" tradeAnimals="false" createFields="false" landscaping="false" hireAssistant="false" resetVehicle="false" manageRights="false" transferMoney="false" updateFarm="false" manageContracting="false"/>
-            <player uniqueUserId="99yRKrhhWoygtdoE7y+9GjbKwd16fha7wGOqR3Da19w=" farmManager="true" lastNickname="Raul" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <handTools>
             <handTool filename="data/firstperson/chainsaws/mcculloch/mccullochcs410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>438.266937</traveledDistance>
-            <fuelUsage>3756.661865</fuelUsage>
-            <seedUsage>54858.226563</seedUsage>
-            <sprayUsage>398562.468750</sprayUsage>
-            <workedHectares>460.424622</workedHectares>
+            <traveledDistance>440.429260</traveledDistance>
+            <fuelUsage>3774.486084</fuelUsage>
+            <seedUsage>56237.597656</seedUsage>
+            <sprayUsage>405624.218750</sprayUsage>
+            <workedHectares>465.010529</workedHectares>
             <cultivatedHectares>0.000000</cultivatedHectares>
-            <sownHectares>173.637527</sownHectares>
-            <fertilizedHectares>572.502014</fertilizedHectares>
+            <sownHectares>178.220032</sownHectares>
+            <fertilizedHectares>584.349365</fertilizedHectares>
             <threshedHectares>160.371979</threshedHectares>
             <plowedHectares>11.277925</plowedHectares>
-            <workedTime>2203.880859</workedTime>
+            <workedTime>2232.568604</workedTime>
             <cultivatedTime>0.000000</cultivatedTime>
-            <sownTime>1014.779724</sownTime>
-            <fertilizedTime>2002.106201</fertilizedTime>
+            <sownTime>1043.467285</sownTime>
+            <fertilizedTime>2047.953613</fertilizedTime>
             <threshedTime>1119.838013</threshedTime>
             <plowedTime>69.263199</plowedTime>
             <baleCount>0</baleCount>
@@ -36,7 +34,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>29851.865234</expenses>
-            <playTime>2095.011963</playTime>
+            <playTime>2110.153320</playTime>
             <plantedTreeCount>420</plantedTreeCount>
             <cutTreeCount>5</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -69,7 +67,7 @@
                 <harvestIncome>0.000000</harvestIncome>
                 <incomeBga>0.000000</incomeBga>
                 <missionIncome>0.000000</missionIncome>
-                <wagePayment>-2015.890991</wagePayment>
+                <wagePayment>-2572.647461</wagePayment>
                 <other>-12678.994141</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
