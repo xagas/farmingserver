@@ -1,0 +1,25 @@
+﻿<tipTypeMappings>
+    <tipTypeMapping fillType="wheat" index="1"/>
+    <tipTypeMapping fillType="barley" index="2"/>
+    <tipTypeMapping fillType="oat" index="3"/>
+    <tipTypeMapping fillType="canola" index="4"/>
+    <tipTypeMapping fillType="maize" index="5"/>
+    <tipTypeMapping fillType="potato" index="6"/>
+    <tipTypeMapping fillType="sugarBeet" index="7"/>
+    <tipTypeMapping fillType="soyBean" index="8"/>
+    <tipTypeMapping fillType="sunflower" index="9"/>
+    <tipTypeMapping fillType="chaff" index="10"/>
+    <tipTypeMapping fillType="seeds" index="11"/>
+    <tipTypeMapping fillType="lime" index="12"/>
+    <tipTypeMapping fillType="fertilizer" index="13"/>
+    <tipTypeMapping fillType="sugarCane" index="14"/>
+    <tipTypeMapping fillType="straw" index="15"/>
+    <tipTypeMapping fillType="grass_windrow" index="16"/>
+    <tipTypeMapping fillType="dryGrass_windrow" index="17"/>
+    <tipTypeMapping fillType="silage" index="18"/>
+    <tipTypeMapping fillType="forage" index="19"/>
+    <tipTypeMapping fillType="pigFood" index="20"/>
+    <tipTypeMapping fillType="manure" index="21"/>
+    <tipTypeMapping fillType="woodChips" index="22"/>
+    <tipTypeMapping fillType="tarp" index="23"/>
+</tipTypeMappings>
