@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 
-<foliageCropsUpdater currentGrowthIndex="5847">
-  <cropsState index="0" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="1" normalizedGrowthTimer="0.340128"/>
-  <cropsState index="2" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="3" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="4" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="6" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="7" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="8" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="9" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="10" normalizedGrowthTimer="0.340128"/>
-  <cropsState index="11" normalizedGrowthTimer="0.169542"/>
-  <cropsState index="13" normalizedGrowthTimer="0.912781"/>
-  <cropsState index="14" normalizedGrowthTimer="0.751888"/>
-  <cropsState index="15" normalizedGrowthTimer="0.912776"/>
+<foliageCropsUpdater currentGrowthIndex="12255">
+  <cropsState index="0" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="1" normalizedGrowthTimer="0.540822"/>
+  <cropsState index="2" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="3" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="4" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="6" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="7" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="8" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="9" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="10" normalizedGrowthTimer="0.540822"/>
+  <cropsState index="11" normalizedGrowthTimer="0.768778"/>
+  <cropsState index="13" normalizedGrowthTimer="0.714333"/>
+  <cropsState index="14" normalizedGrowthTimer="0.651834"/>
+  <cropsState index="15" normalizedGrowthTimer="0.714328"/>
   <growthMasks numCells="16384"><![CDATA[XQAABAAAf+/7v/6jsV7l+D+yqiZV+GhwQXAVD439HkwbikK3GfRpGHGuZiOKik0vow3Zf6bjjCMRU+BZGMV1iuJ3+LaUfwxqwN50SWRcnjrRAA==]]></growthMasks>
 </foliageCropsUpdater>

@@ -41,15 +41,15 @@
         <economicDifficulty>1</economicDifficulty>
         <plantGrowthRate>3</plantGrowthRate>
         <dirtInterval>3</dirtInterval>
-        <timeScale>5.000000</timeScale>
+        <timeScale>1.000000</timeScale>
         <autoSaveInterval>0.000000</autoSaveInterval>
     </settings>
     <map>
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>547</money>
-        <playTime>2110.153320</playTime>
+        <money>421923</money>
+        <playTime>2211.871582</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
