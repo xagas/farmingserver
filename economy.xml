@@ -1,7 +1,0 @@
-﻿<economy>
-    <greatDemands>
-        <greatDemand itemId="46" fillTypeName="SOYBEAN" demandMultiplier="1.300000" demandStartDay="21" demandStartHour="15" demandDuration="12" isRunning="false" isValid="true"/>
-        <greatDemand itemId="14" fillTypeName="WOODCHIPS" demandMultiplier="1.100000" demandStartDay="25" demandStartHour="12" demandDuration="24" isRunning="false" isValid="true"/>
-        <greatDemand itemId="28" fillTypeName="SILAGE" demandMultiplier="1.100000" demandStartDay="23" demandStartHour="13" demandDuration="12" isRunning="false" isValid="true"/>
-    </greatDemands>
-</economy>
