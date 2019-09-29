@@ -1,5 +1,5 @@
 ﻿<farms>
-    <farm farmId="1" name="Minha fazenda" color="1" loan="15000.000000" money="356218.937500" loanAnnualInterestRate="200.000000">
+    <farm farmId="1" name="Minha fazenda" color="1" loan="15000.000000" money="344939.250000" loanAnnualInterestRate="200.000000">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Gabriel" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
             <player uniqueUserId="99yRKrhhWoygtdoE7y+9GjbKwd16fha7wGOqR3Da19w=" farmManager="true" lastNickname="Gabriel" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
@@ -8,21 +8,21 @@
             <handTool filename="data/firstperson/chainsaws/mcculloch/mccullochcs410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>507.111176</traveledDistance>
-            <fuelUsage>4820.783691</fuelUsage>
-            <seedUsage>71185.484375</seedUsage>
-            <sprayUsage>501108.906250</sprayUsage>
-            <workedHectares>619.818726</workedHectares>
+            <traveledDistance>517.548950</traveledDistance>
+            <fuelUsage>5006.496094</fuelUsage>
+            <seedUsage>74933.125000</seedUsage>
+            <sprayUsage>524361.187500</sprayUsage>
+            <workedHectares>643.949585</workedHectares>
             <cultivatedHectares>0.000000</cultivatedHectares>
-            <sownHectares>227.428909</sownHectares>
-            <fertilizedHectares>748.678528</fertilizedHectares>
-            <threshedHectares>211.469330</threshedHectares>
+            <sownHectares>239.921036</sownHectares>
+            <fertilizedHectares>785.751343</fertilizedHectares>
+            <threshedHectares>223.104279</threshedHectares>
             <plowedHectares>11.277925</plowedHectares>
-            <workedTime>2905.398926</workedTime>
+            <workedTime>3006.805176</workedTime>
             <cultivatedTime>0.000000</cultivatedTime>
-            <sownTime>1388.071411</sownTime>
-            <fertilizedTime>2657.453369</fertilizedTime>
-            <threshedTime>1448.064575</threshedTime>
+            <sownTime>1419.666382</sownTime>
+            <fertilizedTime>2775.587402</fertilizedTime>
+            <threshedTime>1517.875732</threshedTime>
             <plowedTime>69.263199</plowedTime>
             <baleCount>0</baleCount>
             <breedCowsCount>2</breedCowsCount>
@@ -35,7 +35,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>29853.943359</expenses>
-            <playTime>2674.731934</playTime>
+            <playTime>2728.517822</playTime>
             <plantedTreeCount>420</plantedTreeCount>
             <cutTreeCount>5</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -51,7 +51,7 @@
                 <soldBuildings>0.000000</soldBuildings>
                 <fieldPurchase>0.000000</fieldPurchase>
                 <fieldSelling>0.000000</fieldSelling>
-                <vehicleRunningCost>-4741.462402</vehicleRunningCost>
+                <vehicleRunningCost>-6343.646973</vehicleRunningCost>
                 <vehicleLeasingCost>0.000000</vehicleLeasingCost>
                 <animalUpkeep>0.000000</animalUpkeep>
                 <propertyMaintenance>0.000000</propertyMaintenance>
@@ -68,8 +68,8 @@
                 <harvestIncome>0.000000</harvestIncome>
                 <incomeBga>0.000000</incomeBga>
                 <missionIncome>0.000000</missionIncome>
-                <wagePayment>-293.059052</wagePayment>
-                <other>0.000000</other>
+                <wagePayment>-2013.651001</wagePayment>
+                <other>-7956.899414</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
             <stats day="1">
