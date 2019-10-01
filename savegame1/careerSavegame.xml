@@ -3,7 +3,7 @@
         <savegameName>Meu jogo salvo</savegameName>
         <mapId>MapDE</mapId>
         <mapTitle>Felsbrunn</mapTitle>
-        <saveDate>29/09/2019</saveDate>
+        <saveDate>30/09/2019</saveDate>
         <playerModelIndex>1</playerModelIndex>
         <playerColorIndex>15</playerColorIndex>
         <playerBodyIndex>1</playerBodyIndex>
@@ -48,8 +48,8 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>332389</money>
-        <playTime>2821.208252</playTime>
+        <money>332341</money>
+        <playTime>2822.885254</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
