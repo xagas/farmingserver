@@ -1,10 +1,10 @@
 ﻿<environment>
-    <dayTime>1066.346680</dayTime>
+    <dayTime>1157.486084</dayTime>
     <currentDay>25</currentDay>
-    <realHourTimer>3427268</realHourTimer>
-    <weather timeSinceLastRain="360">
+    <realHourTimer>2165337</realHourTimer>
+    <weather timeSinceLastRain="451">
         <forecast>
-            <instance durationLeft="9.894222" typeName="SUN" variationIndex="3" duration="9.000000"/>
+            <instance durationLeft="8.375232" typeName="SUN" variationIndex="3" duration="9.000000"/>
             <instance typeName="SUN" variationIndex="5" duration="16.000000"/>
             <instance typeName="SUN" variationIndex="6" duration="5.000000"/>
             <instance typeName="SUN" variationIndex="4" duration="15.000000"/>

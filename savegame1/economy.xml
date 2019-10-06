@@ -1,7 +1,7 @@
 ﻿<economy>
     <greatDemands>
-        <greatDemand itemId="3" fillTypeName="OAT" demandMultiplier="1.100000" demandStartDay="25" demandStartHour="12" demandDuration="19" isRunning="true" isValid="true"/>
-        <greatDemand itemId="23" fillTypeName="WOODCHIPS" demandMultiplier="1.100000" demandStartDay="25" demandStartHour="12" demandDuration="19" isRunning="true" isValid="true"/>
-        <greatDemand itemId="65" fillTypeName="OAT" demandMultiplier="1.300000" demandStartDay="28" demandStartHour="7" demandDuration="18" isRunning="false" isValid="true"/>
+        <greatDemand itemId="3" fillTypeName="OAT" demandMultiplier="1.100000" demandStartDay="25" demandStartHour="12" demandDuration="17" isRunning="true" isValid="true"/>
+        <greatDemand itemId="64" fillTypeName="WOODCHIPS" demandMultiplier="1.100000" demandStartDay="25" demandStartHour="12" demandDuration="17" isRunning="true" isValid="true"/>
+        <greatDemand itemId="42" fillTypeName="OAT" demandMultiplier="1.300000" demandStartDay="28" demandStartHour="7" demandDuration="18" isRunning="false" isValid="true"/>
     </greatDemands>
 </economy>

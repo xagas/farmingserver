@@ -3,7 +3,7 @@
         <savegameName>Meu jogo salvo</savegameName>
         <mapId>MapDE</mapId>
         <mapTitle>Felsbrunn</mapTitle>
-        <saveDate>30/09/2019</saveDate>
+        <saveDate>06/10/2019</saveDate>
         <playerModelIndex>1</playerModelIndex>
         <playerColorIndex>15</playerColorIndex>
         <playerBodyIndex>1</playerBodyIndex>
@@ -24,7 +24,7 @@
         <fuelUsageLow>false</fuelUsageLow>
         <helperBuyFuel>false</helperBuyFuel>
         <helperBuySeeds>false</helperBuySeeds>
-        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
         <helperSlurrySource>2</helperSlurrySource>
         <helperManureSource>2</helperManureSource>
         <densityMapRevision>3</densityMapRevision>
@@ -48,8 +48,8 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>332341</money>
-        <playTime>2822.885254</playTime>
+        <money>1146957</money>
+        <playTime>2903.917725</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>

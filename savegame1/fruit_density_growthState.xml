@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 
 <foliageCropsUpdater currentGrowthIndex="8339">
-  <cropsState index="0" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="1" normalizedGrowthTimer="0.204965"/>
-  <cropsState index="2" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="3" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="4" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="6" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="7" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="8" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="9" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="10" normalizedGrowthTimer="0.204965"/>
-  <cropsState index="11" normalizedGrowthTimer="0.104737"/>
-  <cropsState index="13" normalizedGrowthTimer="0.699906"/>
-  <cropsState index="14" normalizedGrowthTimer="0.160944"/>
-  <cropsState index="15" normalizedGrowthTimer="0.699901"/>
-  <growthMasks numCells="16384"><![CDATA[XQAABAAAf+/7v/6jsV7l+D+yqiZV+GhwQXAVD439HkwbikK3GfRpGHGuZiOKik0vow3Zf6bjjCMRU+BZGMV1iuJ3+LaUfwxqwN50SWRcnjrRAA==]]></growthMasks>
+  <cropsState index="0" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="1" normalizedGrowthTimer="0.053829"/>
+  <cropsState index="2" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="3" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="4" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="6" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="7" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="8" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="9" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="10" normalizedGrowthTimer="0.053829"/>
+  <cropsState index="11" normalizedGrowthTimer="0.029176"/>
+  <cropsState index="13" normalizedGrowthTimer="0.468277"/>
+  <cropsState index="14" normalizedGrowthTimer="0.047602"/>
+  <cropsState index="15" normalizedGrowthTimer="0.468272"/>
+  <growthMasks numCells="16384"><![CDATA[XQAABAAAf+/7v/6jsV7l+D+yqiZV+GhwQXAVD439HkwbikK3GfRpGHGuZiOKik0vow3Zf6bjjCMRU+BZGMV1iuJ3+LaUfodcy2CUDdRJbCFoIvwv92t22yDwbQ6JAAA=]]></growthMasks>
 </foliageCropsUpdater>
