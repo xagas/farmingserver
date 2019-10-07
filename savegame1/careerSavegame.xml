@@ -24,7 +24,7 @@
         <fuelUsageLow>false</fuelUsageLow>
         <helperBuyFuel>false</helperBuyFuel>
         <helperBuySeeds>false</helperBuySeeds>
-        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
         <helperSlurrySource>2</helperSlurrySource>
         <helperManureSource>2</helperManureSource>
         <densityMapRevision>3</densityMapRevision>
@@ -41,15 +41,15 @@
         <economicDifficulty>1</economicDifficulty>
         <plantGrowthRate>3</plantGrowthRate>
         <dirtInterval>3</dirtInterval>
-        <timeScale>1.000000</timeScale>
+        <timeScale>5.000000</timeScale>
         <autoSaveInterval>0.000000</autoSaveInterval>
     </settings>
     <map>
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>1146957</money>
-        <playTime>2903.917725</playTime>
+        <money>276637</money>
+        <playTime>2983.618896</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
@@ -59,13 +59,13 @@
     <mod modName="FS19_holmerPack" title="HOLMER Terra Variant DLC" version="1.0.1.0" required="false" fileHash="def22884bd1b63522320edd01ccc3628"/>
     <mod modName="FS19_NoCrosshair" title="No Crosshair" version="1.0.0.0" required="false" fileHash="1849bd90b4d4828377117566618e2454"/>
     <mod modName="FS19_Wilson_SuperB" title="Wilson Pacesetter Super B" version="1.0.0.0" required="false" fileHash="09c01fbc6f4ebe46c692608025eaf7c2"/>
-    <mod modName="FS19_JD_DB90" title="John Deere DB90" version="1.1" required="false" fileHash="0a387e84efc3b98440d7a6ad516c4d90"/>
+    <mod modName="FS19_fuelstationEcoPro" title="Fuel Station" version="1.0.0.0" required="false" fileHash="d25cae84b41507e95ead1e8700656b65"/>
     <mod modName="FS19_lizardFloodLightTrailer" title="Flood Light Trailer" version="1.0.0.0" required="false" fileHash="77c88110fddca68ea16b8af922b180d9"/>
     <mod modName="FS19_realDirtColor" title="Real Dirt Color" version="1.1.0.2" required="false" fileHash="13f7f7d37a2ec7623804bbfef641b116"/>
     <mod modName="FS19_placeableGroundDecals" title="Placeable Ground Decals" version="1.0.0.0" required="false" fileHash="5b8eb92b666ddec1f395bb1539e2f297"/>
     <mod modName="FS19_mahindraRetriever" title="Mahindra Retriever 1000" version="1.0.0.0" required="false" fileHash="e0afcef487f47e2ae12d52199160141e"/>
-    <mod modName="FS19_fuelstationEcoPro" title="Fuel Station" version="1.0.0.0" required="false" fileHash="d25cae84b41507e95ead1e8700656b65"/>
     <mod modName="FS19_mfShedPack" title="MF Shed Pack" version="1.0.0.0" required="false" fileHash="3e04160ba38d9bf631d197a7cabce91e"/>
-    <mod modName="FS19_compositeHallPack" title="Composite machinesheds" version="1.0.0.0" required="false" fileHash="70120c88a22af7fb9cbddb5e09f7d2e2"/>
     <mod modName="FS19_BD_Modding_Lightpack" title="BD_Modding_Lightpack" version="1.0" required="false" fileHash="f57fbb6aa9aff6c3641ae277bdb434bb"/>
+    <mod modName="FS19_compositeHallPack" title="Composite machinesheds" version="1.0.0.0" required="false" fileHash="70120c88a22af7fb9cbddb5e09f7d2e2"/>
+    <mod modName="FS19_JD_DB90" title="John Deere DB90" version="1.1" required="false" fileHash="0a387e84efc3b98440d7a6ad516c4d90"/>
 </careerSavegame>
