@@ -1,7 +1,7 @@
 ﻿<economy>
     <greatDemands>
-        <greatDemand itemId="38" fillTypeName="DRYGRASS_WINDROW" demandMultiplier="1.200000" demandStartDay="30" demandStartHour="14" demandDuration="12" isRunning="false" isValid="true"/>
-        <greatDemand itemId="9" fillTypeName="POTATO" demandMultiplier="1.300000" demandStartDay="31" demandStartHour="11" demandDuration="6" isRunning="false" isValid="true"/>
-        <greatDemand itemId="14" fillTypeName="OAT" demandMultiplier="1.300000" demandStartDay="28" demandStartHour="7" demandDuration="18" isRunning="false" isValid="true"/>
+        <greatDemand itemId="32" fillTypeName="SUGARBEET" demandMultiplier="1.200000" demandStartDay="22" demandStartHour="16" demandDuration="24" isRunning="false" isValid="true"/>
+        <greatDemand itemId="15" fillTypeName="EGG" demandMultiplier="1.300000" demandStartDay="22" demandStartHour="17" demandDuration="18" isRunning="false" isValid="true"/>
+        <greatDemand itemId="13" fillTypeName="SILAGE" demandMultiplier="1.100000" demandStartDay="23" demandStartHour="13" demandDuration="12" isRunning="false" isValid="true"/>
     </greatDemands>
 </economy>
